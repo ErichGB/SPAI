@@ -12,6 +12,21 @@
 Resuelve el problema con esta nueva estructura del dataset</li>
 </ul>
 
+<h1>Ejercicio 2. Clasificador Botnet (versión centralizada y parallelizada)</h1>
+
+Sigue las instrucciones del enunciado "Practica Clasificador ML de botnet" para realizar la práctica. 
+
+Para entregar la práctica, subid:
+
+<ol> 
+  <li>Fichero txt con el nombre de los miembros del grupo</li>
+  <li>notebook (ipynb) de la version centralizada</li>
+  <li>notebook (ipynb) de la version paralela (Spark)</li>
+  <li>Trabajo (opcional) en pdf </li>
+  <li>Indicad los miembros del grupo en la primera celda de los notebook</li>
+</ol>
+
+
 <em><b>Esta práctica fue realizado por:</b></em>
 <ul>
   <li>Daniel Gutierrez San Jose</li>
