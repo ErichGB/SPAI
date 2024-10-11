@@ -1,12 +1,12 @@
 <h1>Cálculo de la media y varianza del dataset data_ok.csv</h1>
 
-<p>Calcular mediante paralelizacion con Spark la media y varianza del dataset data_ok.csv utilizando exclusivamente funciones basicas map/reduce (textFile, reduce, reduceByKey, map, flatmap, filter, count).</p>
-<p>Calcular inicialmente para una sola columna y mas tarde para todas las columnas del dataset.</p>
-<p>Verificar que la solucion propuesta es correcta con las funciones rdd.mean() y rdd.stdev().</p>
+<ol><p>Calcular mediante paralelización con Spark la media y varianza del dataset data_ok.csv utilizando exclusivamente funciones básicas map/reduce (textFile, reduce, reduceByKey, map, flatmap, filter, count).</p></ol>
+<ol><p>Calcular inicialmente para una sola columna y más tarde para todas las columnas del dataset.</p></ol>
+<ol><p>Verificar que la solucion propuesta es correcta con las funciones rdd.mean() y rdd.stdev().</p></ol>
 <p>Tal y como se ha comentado en clase, se deben realizar 3 versiones para obtener la nota máxima:</p>
 <ul>
   <li>v1: Calcula la media y varianza para la columna 4</li>
-  <li>v2: utilizando las operaciones de vectorizacion de python y arrays de numpy, utilizar la misma estructura de codigo de la version 1 para calcular las medias y varianzas de todas las columnas</li>
+  <li>v2: Utilizando las operaciones de vectorizacion de python y arrays de numpy, utilizar la misma estructura de codigo de la version 1 para calcular las medias y varianzas de todas las columnas</li>
   <li>v3: Transforma cada celda del dataset en un elemento (j,v),  donde "j" es la columna de la celda y "v" es el valor de la celda del rdd.
 Resuelve el problema con esta nueva estructura del dataset</li>
 </ul>
