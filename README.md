@@ -1,4 +1,4 @@
-<h1>Cálculo de la media y varianza del dataset data_ok.csv</h1>
+<h1>Ejercicio 1. Cálculo de la media y varianza del dataset data_ok.csv</h1>
 <ol>
   <li>Calcular mediante paralelización con Spark la media y varianza del dataset data_ok.csv utilizando exclusivamente funciones básicas map/reduce (textFile, reduce, reduceByKey, map, flatmap, filter, count).</li>
   <li>Calcular inicialmente para una sola columna y más tarde para todas las columnas del dataset.</li>
