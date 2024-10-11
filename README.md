@@ -27,7 +27,7 @@ Para entregar la práctica, subid:
 </ol>
 
 
-<em><b>Esta práctica fue realizado por:</b></em>
+<em><b>Estas prácticas fueron realizadas por:</b></em>
 <ul>
   <li>Daniel Gutierrez San Jose</li>
   <li>Erich González</li>
